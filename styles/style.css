@@ -268,7 +268,7 @@ ol {
   cursor: pointer;
 }
 
-::-webkit-scrollbar {
+.content__list::-webkit-scrollbar {
   width: 0;
 }
 
